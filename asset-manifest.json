@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/recurring-date-picker/static/css/main.f95efb59.css",
-    "main.js": "/recurring-date-picker/static/js/main.eb0c3c1b.js",
-    "static/js/718.4014e8dc.chunk.js": "/recurring-date-picker/static/js/718.4014e8dc.chunk.js",
+    "main.css": "/recurring-date-picker/static/css/main.e7e60dba.css",
+    "main.js": "/recurring-date-picker/static/js/main.f3ba2379.js",
+    "static/js/754.e1523308.chunk.js": "/recurring-date-picker/static/js/754.e1523308.chunk.js",
+    "static/media/index.cjs": "/recurring-date-picker/static/media/index.a02930182e698c6507fb.cjs",
     "index.html": "/recurring-date-picker/index.html",
-    "main.f95efb59.css.map": "/recurring-date-picker/static/css/main.f95efb59.css.map",
-    "main.eb0c3c1b.js.map": "/recurring-date-picker/static/js/main.eb0c3c1b.js.map",
-    "718.4014e8dc.chunk.js.map": "/recurring-date-picker/static/js/718.4014e8dc.chunk.js.map"
+    "static/media/en-US.cjs": "/recurring-date-picker/static/media/en-US.c3a6319ea4f219498e6f.cjs",
+    "main.e7e60dba.css.map": "/recurring-date-picker/static/css/main.e7e60dba.css.map",
+    "main.f3ba2379.js.map": "/recurring-date-picker/static/js/main.f3ba2379.js.map",
+    "754.e1523308.chunk.js.map": "/recurring-date-picker/static/js/754.e1523308.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f95efb59.css",
-    "static/js/main.eb0c3c1b.js"
+    "static/css/main.e7e60dba.css",
+    "static/js/main.f3ba2379.js"
   ]
 }
